@@ -1,2 +1,0 @@
-# CHYPER_Blog
-Blog
